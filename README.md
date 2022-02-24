@@ -5,7 +5,7 @@ Gazebo simulation for my own robot.
 
 FreeCAD_daes --> FreeCAD files with the robot parts implement in the URDF.
 
-You can find
+You can find here,
 
 - Lateral wheel
 - Back wheel
